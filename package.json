@@ -1,0 +1,33 @@
+{
+	"name": "js-methods",
+	"version": "1.0.0",
+	"description": "A set of handy JavaScript prototype extensions",
+	"keywords": [
+		"prototype",
+		"javascript",
+		"utility",
+		"utilities",
+		"methods",
+		"array operations",
+		"string manipulation"
+	],
+	"main": "src/index.js",
+	"scripts": {
+		"test": "jest",
+		"test:watch": "jest --watch",
+		"test:coverage": "jest --coverage"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/aj2967/js-methods.git"
+	},
+	"author": "AJ Singh",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/aj2967/js-methods/issues"
+	},
+	"homepage": "https://github.com/aj2967/js-methods#readme",
+	"devDependencies": {
+		"jest": "^29.7.0"
+	}
+}
