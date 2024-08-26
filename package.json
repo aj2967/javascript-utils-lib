@@ -1,7 +1,7 @@
 {
-	"name": "js-methods",
-	"version": "1.0.0",
-	"description": "A set of handy JavaScript prototype extensions",
+	"name": "javascript-utils-lib",
+	"version": "1.0.2",
+	"description": "A set of handy JavaScript helpers",
 	"keywords": [
 		"prototype",
 		"javascript",
@@ -19,14 +19,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/aj2967/js-methods.git"
+		"url": "git+https://github.com/aj2967/javascript-utils-lib.git"
 	},
 	"author": "AJ Singh",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/aj2967/js-methods/issues"
+		"url": "https://github.com/aj2967/javascript-utils-lib/issues"
 	},
-	"homepage": "https://github.com/aj2967/js-methods#readme",
+	"homepage": "https://github.com/aj2967/javascript-utils-lib#readme",
 	"devDependencies": {
 		"jest": "^29.7.0"
 	}
